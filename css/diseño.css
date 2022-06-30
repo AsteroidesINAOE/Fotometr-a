@@ -215,13 +215,13 @@ a.contenido {
 
 /* Texto general */
 .texto {
+  display: flex;
+  align-items: center;
   background: #131313;
   border-radius: 1rem;
   padding: 0 20px 0 20px;
   box-shadow: 5px 5px 4px #161718, -5px -5px 4px #404346;
   width: 60%;
-  display: flex;
-  align-items: center;
 }
 
 img {
