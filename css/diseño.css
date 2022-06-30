@@ -418,6 +418,7 @@ label {
     /*Submenu*/
     .container2{
       display: flex;
+      align-items: center;
       flex-flow: row;
       visibility: none;
     }
